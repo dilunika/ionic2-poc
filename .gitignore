@@ -1,0 +1,7 @@
+typings/
+node_modules/
+www/build/
+platforms/
+plugins/
+.idea/
+.DS_Store
